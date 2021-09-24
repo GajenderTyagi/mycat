@@ -1,1 +1,3 @@
 # mycat
+
+![cat](./hi.png)
